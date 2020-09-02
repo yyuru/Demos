@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caman.full.js"
   },
   {
-    "revision": "0a93825dd1ef8dfab1a2",
-    "url": "/css/app.adb78aa1.css"
+    "revision": "b66677162454cf805194",
+    "url": "/css/app.0cfe7a6a.css"
   },
   {
     "revision": "8f89adda08fac0ef4536",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6c2b00cb942a5bc4eb4df0a11786a6fd",
     "url": "/fonts/ShareTechMono-Regular.6c2b00cb.ttf"
+  },
+  {
+    "revision": "1a4a958503f4df6f21c22cb57f81c620",
+    "url": "/fonts/breakfastDEMO.1a4a9585.otf"
   },
   {
     "revision": "f793a2c530106da61b2ded9010e1fb57",
@@ -144,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/water.0ba4eeb6.png"
   },
   {
-    "revision": "77242ba75881cb30efe74f3585f06e68",
+    "revision": "4a54b700e74ad4f3a2f951fcef4fd8f2",
     "url": "/index.html"
   },
   {
-    "revision": "0a93825dd1ef8dfab1a2",
-    "url": "/js/app.2d874d97.js"
+    "revision": "b66677162454cf805194",
+    "url": "/js/app.8e1d0c92.js"
   },
   {
     "revision": "8f89adda08fac0ef4536",

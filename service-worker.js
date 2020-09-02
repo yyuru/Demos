@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ae5daaec40404ca12fe5a830d39def94.js"
+  "/precache-manifest.ee053d745ecb08d6ef79ed832ba80b2f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nebulas"});
